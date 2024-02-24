@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\bin\Debug\net8.0\MensajeDeBienvenida.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\bin\Debug\net8.0\MensajeDeBienvenida.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\bin\Debug\net8.0\MensajeDeBienvenida.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\bin\Debug\net8.0\MensajeDeBienvenida.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\bin\Debug\net8.0\MensajeDeBienvenida.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\MensajeDeBienvenida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\MensajeDeBienvenida.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\MensajeDeBienvenida.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\MensajeDeBienvenida.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\MensajeDeBienvenida.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\refint\MensajeDeBienvenida.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\MensajeDeBienvenida.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\MensajeDeBienvenida.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\MensajeDeBienvenida\obj\Debug\net8.0\ref\MensajeDeBienvenida.dll

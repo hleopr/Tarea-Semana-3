@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\bin\Debug\net8.0\ConvertirNumeroLetraADigito.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\bin\Debug\net8.0\ConvertirNumeroLetraADigito.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\bin\Debug\net8.0\ConvertirNumeroLetraADigito.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\bin\Debug\net8.0\ConvertirNumeroLetraADigito.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\bin\Debug\net8.0\ConvertirNumeroLetraADigito.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\ConvertirNumeroLetraADigito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\ConvertirNumeroLetraADigito.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\ConvertirNumeroLetraADigito.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\ConvertirNumeroLetraADigito.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\ConvertirNumeroLetraADigito.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\refint\ConvertirNumeroLetraADigito.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\ConvertirNumeroLetraADigito.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\ConvertirNumeroLetraADigito.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ConvertirNumeroLetraADigito\obj\Debug\net8.0\ref\ConvertirNumeroLetraADigito.dll

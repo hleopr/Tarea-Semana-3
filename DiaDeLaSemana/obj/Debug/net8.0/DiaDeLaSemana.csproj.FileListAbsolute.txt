@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\bin\Debug\net8.0\DiaDeLaSemana.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\bin\Debug\net8.0\DiaDeLaSemana.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\bin\Debug\net8.0\DiaDeLaSemana.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\bin\Debug\net8.0\DiaDeLaSemana.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\bin\Debug\net8.0\DiaDeLaSemana.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\DiaDeLaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\DiaDeLaSemana.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\DiaDeLaSemana.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\DiaDeLaSemana.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\DiaDeLaSemana.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\refint\DiaDeLaSemana.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\DiaDeLaSemana.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\DiaDeLaSemana.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\DiaDeLaSemana\obj\Debug\net8.0\ref\DiaDeLaSemana.dll
