@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\bin\Debug\net8.0\AprobacionDePrestamo.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\bin\Debug\net8.0\AprobacionDePrestamo.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\bin\Debug\net8.0\AprobacionDePrestamo.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\bin\Debug\net8.0\AprobacionDePrestamo.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\bin\Debug\net8.0\AprobacionDePrestamo.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\AprobacionDePrestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\AprobacionDePrestamo.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\AprobacionDePrestamo.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\AprobacionDePrestamo.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\AprobacionDePrestamo.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\refint\AprobacionDePrestamo.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\AprobacionDePrestamo.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\AprobacionDePrestamo.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\AprobacionDePrestamo\obj\Debug\net8.0\ref\AprobacionDePrestamo.dll

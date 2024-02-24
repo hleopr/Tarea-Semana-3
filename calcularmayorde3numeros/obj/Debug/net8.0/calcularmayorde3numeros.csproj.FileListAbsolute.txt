@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\bin\Debug\net8.0\calcularmayorde3numeros.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\bin\Debug\net8.0\calcularmayorde3numeros.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\bin\Debug\net8.0\calcularmayorde3numeros.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\bin\Debug\net8.0\calcularmayorde3numeros.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\bin\Debug\net8.0\calcularmayorde3numeros.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\calcularmayorde3numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\calcularmayorde3numeros.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\calcularmayorde3numeros.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\calcularmayorde3numeros.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\calcularmayorde3numeros.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\refint\calcularmayorde3numeros.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\calcularmayorde3numeros.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\calcularmayorde3numeros.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\calcularmayorde3numeros\obj\Debug\net8.0\ref\calcularmayorde3numeros.dll

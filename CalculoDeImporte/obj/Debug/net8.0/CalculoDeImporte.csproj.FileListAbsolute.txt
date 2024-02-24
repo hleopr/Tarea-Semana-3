@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\bin\Debug\net8.0\CalculoDeImporte.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\bin\Debug\net8.0\CalculoDeImporte.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\bin\Debug\net8.0\CalculoDeImporte.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\bin\Debug\net8.0\CalculoDeImporte.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\bin\Debug\net8.0\CalculoDeImporte.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\CalculoDeImporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\CalculoDeImporte.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\CalculoDeImporte.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\CalculoDeImporte.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\CalculoDeImporte.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\refint\CalculoDeImporte.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\CalculoDeImporte.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\CalculoDeImporte.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\CalculoDeImporte\obj\Debug\net8.0\ref\CalculoDeImporte.dll
