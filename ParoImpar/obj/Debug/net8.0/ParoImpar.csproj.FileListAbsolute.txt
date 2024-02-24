@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\bin\Debug\net8.0\ParoImpar.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\bin\Debug\net8.0\ParoImpar.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\bin\Debug\net8.0\ParoImpar.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\bin\Debug\net8.0\ParoImpar.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\bin\Debug\net8.0\ParoImpar.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\ParoImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\ParoImpar.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\ParoImpar.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\ParoImpar.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\ParoImpar.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\refint\ParoImpar.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\ParoImpar.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\ParoImpar.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ParoImpar\obj\Debug\net8.0\ref\ParoImpar.dll

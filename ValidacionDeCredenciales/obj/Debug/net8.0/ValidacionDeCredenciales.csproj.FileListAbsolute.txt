@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\bin\Debug\net8.0\ValidacionDeCredenciales.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\bin\Debug\net8.0\ValidacionDeCredenciales.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\bin\Debug\net8.0\ValidacionDeCredenciales.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\bin\Debug\net8.0\ValidacionDeCredenciales.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\bin\Debug\net8.0\ValidacionDeCredenciales.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\ValidacionDeCredenciales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\ValidacionDeCredenciales.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\ValidacionDeCredenciales.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\ValidacionDeCredenciales.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\ValidacionDeCredenciales.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\refint\ValidacionDeCredenciales.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\ValidacionDeCredenciales.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\ValidacionDeCredenciales.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\ValidacionDeCredenciales\obj\Debug\net8.0\ref\ValidacionDeCredenciales.dll

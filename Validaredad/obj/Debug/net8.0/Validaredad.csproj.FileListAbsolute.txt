@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\bin\Debug\net8.0\Validaredad.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\bin\Debug\net8.0\Validaredad.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\bin\Debug\net8.0\Validaredad.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\bin\Debug\net8.0\Validaredad.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\bin\Debug\net8.0\Validaredad.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\Validaredad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\Validaredad.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\Validaredad.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\Validaredad.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\Validaredad.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\refint\Validaredad.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\Validaredad.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\Validaredad.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\Validaredad\obj\Debug\net8.0\ref\Validaredad.dll

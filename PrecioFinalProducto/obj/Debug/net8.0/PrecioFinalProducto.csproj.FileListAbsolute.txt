@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\bin\Debug\net8.0\PrecioFinalProducto.exe
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\bin\Debug\net8.0\PrecioFinalProducto.deps.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\bin\Debug\net8.0\PrecioFinalProducto.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\bin\Debug\net8.0\PrecioFinalProducto.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\bin\Debug\net8.0\PrecioFinalProducto.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\PrecioFinalProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\PrecioFinalProducto.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\PrecioFinalProducto.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\PrecioFinalProducto.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\PrecioFinalProducto.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\refint\PrecioFinalProducto.dll
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\PrecioFinalProducto.pdb
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\PrecioFinalProducto.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Tarea semana 3\PrecioFinalProducto\obj\Debug\net8.0\ref\PrecioFinalProducto.dll
